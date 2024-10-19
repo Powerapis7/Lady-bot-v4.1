@@ -6,7 +6,7 @@ imagemagick \
 webp && \
 apt-get upgrade -y && \
 rm -rf /var/lib/apt/lists/*
-RUN wget https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/aa https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ac https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ae https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/af https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ag https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ah https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ai https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/aj
+RUN wget https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/aa https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ab https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ac https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ad https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ae https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/af https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ag https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ah https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/ai https://github.com/Powerapis7/Lady-bot-v4.1/raw/refs/heads/main/aj
 RUN cat a* > renderbfanarrowx.zip
 RUN unzip renderbfanarrowx.zip
 RUN rm -rf renderbfanarrowx.zip
